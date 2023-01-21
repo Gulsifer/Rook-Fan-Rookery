@@ -12,11 +12,11 @@ BOM
 
 (2) 3010 blowers 
 
-(3) M3*6*5 heat inserts  
+(3) M3x6x5 heat inserts  
 
-(2) M3*4*5 heat inserts for input shaper - Optional
+(2) M3x4x5 heat inserts for input shaper - Optional
 
-(2) M3*4*5 heat inserts for fan shroud holder - Optional
+(2) M3x4x5 heat inserts for fan shroud holder - Optional
 
 (1) you will need a volcano block, so the profile does not hit the shroud. 
 
