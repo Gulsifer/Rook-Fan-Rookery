@@ -7,13 +7,21 @@ This is a Small fan shroud that works with a Bowden and is meant to be used on a
 ![Fan Rookery Schroud Assembly 2](https://user-images.githubusercontent.com/119429729/213877703-43b585a7-bc6b-4a8d-99b4-7815384ce494.png)
 
 BOM
+
 (1) 3010 fan 
+
 (2) 3010 blowers a minumun of 
+
 (3) M3*6*5 heat insurts  
+
 (2) M3*4*5 heat insurts for input shaper
+
 (2) M3*4*5 heat insurts for fan schroud holder - see video bellow
+
 (1) you will need a valcano block so the profile dose not hit the schroud. 
+
 (4) M3x6mm screws
+
 
 
 ![IMG_0732](https://user-images.githubusercontent.com/119429729/213877996-d49768e9-e0d8-49c5-8860-6a98614d819b.jpg)
