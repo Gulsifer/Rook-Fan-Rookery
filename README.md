@@ -14,9 +14,9 @@ BOM
 
 (3) M3*6*5 heat insurts  
 
-(2) M3*4*5 heat insurts for input shaper
+(2) M3*4*5 heat insurts for input shaper - Optional
 
-(2) M3*4*5 heat insurts for fan schroud holder - see video bellow
+(2) M3*4*5 heat insurts for fan schroud holder - Optional
 
 (1) you will need a valcano block so the profile dose not hit the schroud. 
 
