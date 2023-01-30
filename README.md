@@ -1,4 +1,7 @@
 # Rook-Fan-Rookery
+
+We have added the Rookery Short to the GitHub bolth 4010 and 3010 fan sizes you can now use other nosels not just the volcano. 
+
 This small fan shroud works with a Bowden and is meant to be used on all rooks /or other small printer projects.   
 
 ![Fan Rookery Schroud Assembly](https://user-images.githubusercontent.com/119429729/213877716-7ed98d06-85fa-4fbf-92b8-d1ee60144bef.png)
